@@ -22,7 +22,7 @@ GUI化・画像表示・スコア管理を段階的に実装したポートフ�
 
 ## 🛠️ 使用技術
 
-- Python 3.11
+- Python 3.13.2
 - Tkinter
 - Pillow（画像表示用）
 - Visual Studio Code
